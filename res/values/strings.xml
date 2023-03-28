@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">GPAME</string>
+    <string name="course">Course</string>
+    <string name="credits">Credits</string>
+    <string name="grade">Grade</string>
+    <string name="course_name">Course Name</string>
+    <string name="_4">4</string>
+    <string name="a">A</string>
+    <string name="_4_0">4.0</string>
+    <string name="calculate">Calculate</string>
+    <string name="refresh">Refresh</string>
+</resources>
